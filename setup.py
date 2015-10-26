@@ -3,7 +3,7 @@ from setuptools import setup
 import os
 
 
-setup(name='django-test-without-migrations',
+setup(name='django-test-without-migrations-ixc',
       version='0.3',
       description='Disable migrations when running your Django tests.',
       long_description=open(os.path.join(os.path.dirname(__file__), "README.rst")).read(),
